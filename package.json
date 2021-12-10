@@ -1,0 +1,16 @@
+{
+  "name": "code-tray",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/thiagowaib/code-tray.git",
+  "author": "thiagowaib <thiagowaib@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^7.0.3",
+    "electron": "^16.0.4",
+    "electron-store": "^8.0.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
