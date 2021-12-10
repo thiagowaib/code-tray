@@ -1,6 +1,6 @@
 # Code Tray
 
-<img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="25%"/><img src="https://raw.githubusercontent.com/thiagowaib/code-tray/4181ba473389cf6a22db3db937815b0a4d864b18/assets/logo.svg" width="50%"/><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="25%"/>
+<img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="30%"/><img src="https://raw.githubusercontent.com/thiagowaib/code-tray/4181ba473389cf6a22db3db937815b0a4d864b18/assets/logo.svg" width="40%"/><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="30%"/>
 
 > O Code Tray é um aplicativo de desktop, presente na barra de tarefas, que lista os projetos e pastas de interesse do usuário para facilitar a abertura com o [VSCode](https://code.visualstudio.com "VSCode").
 
